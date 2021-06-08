@@ -1,4 +1,4 @@
-# ufo_reports
+# UFO_Reports_Analysis
 Telus Junior Data Scientist
 
 # exercise: ufo reports
